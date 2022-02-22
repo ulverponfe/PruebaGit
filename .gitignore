@@ -1,0 +1,5 @@
+test
+#Ignora el archivo fichero1.txt
+fichero1.txt
+#Ignora el contenido del directorio bin
+bin/
